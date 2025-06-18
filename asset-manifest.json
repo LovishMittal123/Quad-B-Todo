@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quad-B-Todo/static/css/main.9dd49f6e.css",
+    "main.js": "/Quad-B-Todo/static/js/main.893cc32e.js",
+    "index.html": "/Quad-B-Todo/index.html",
+    "main.9dd49f6e.css.map": "/Quad-B-Todo/static/css/main.9dd49f6e.css.map",
+    "main.893cc32e.js.map": "/Quad-B-Todo/static/js/main.893cc32e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd49f6e.css",
+    "static/js/main.893cc32e.js"
+  ]
+}
